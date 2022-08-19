@@ -1,0 +1,2 @@
+Type,Open_price,Close_price,Deal_size,Max_open,eq,start_marj,Liquidation_price,Balance_before,Balance_after,Leverage,start_index,end_index
+True,42797.32,44343.77,25.0,0.03504892362418955,0.017323509106459842,25.000000000000004,40174.48179287872,50,77.08037844133688,30,1,900
